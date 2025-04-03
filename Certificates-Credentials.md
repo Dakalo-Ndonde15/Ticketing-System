@@ -22,4 +22,4 @@
   - [Project: Create User Stories in Jira](https://www.coursera.org/projects/create-user-stories-in-jira)
   - [Credentials: Create User Stories in Jira](https://github.com/Dakalo-Ndonde15/Ticketing-System/blob/Certs/Create%20User%20Stories%20in%20Jira.pdf)
   - 
--![Repo Image](https://github.com/Dakalo-Ndonde15/Azure-Network-Protocols/blob/Certificates/Credentials/Wireshark_icon_new.png)
+-![Repo Image](https://github.com/Dakalo-Ndonde15/Ticketing-System/blob/Certs/Logo-centered.png)
