@@ -1,6 +1,6 @@
 <h1>Hi I'm Dakalo, an <br/><a href="https://github.com/Dakalo-Ndonde15/">IT Support Specialist</a>
 
-<h2>👨‍🎓 PROJECT COMPLETION CERTIFICATES:👨‍🎓</h2>
+<h2>🎖 PROJECT COMPLETION CERTIFICATES:🎖</h2>
 
 <b>Get started with Jira</b>
   - [Project: Get started with Jira](https://www.coursera.org/projects/get-started-with-jira)
