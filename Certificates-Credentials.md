@@ -3,19 +3,23 @@
 <h2>👨‍🎓 PROJECT COMPLETION CERTIFICATES:👨‍🎓</h2>
 
 <b>Get started with Jira</b>
-  - [Project: Get started with Jira](https://www.coursera.org/projects/wireshark-for-beginners-capture-packets)
-  -  [Credentials: Get started with Jira](https://github.com/Dakalo-Ndonde15/Azure-Network-Protocols/blob/Certificates/Credentials/Wireshark%20for%20Beginners%20Capture%20Packets.pdf)
+  - [Project: Get started with Jira](https://www.coursera.org/projects/get-started-with-jira)
+  -  [Credentials: Get started with Jira](https://github.com/Dakalo-Ndonde15/Ticketing-System/blob/Certs/Get%20started%20with%20Jira.pdf)
  
- <b>Wireshark for Beginners TCP IP Protocol Fundamentals (Unlimited Access)</b>
-  - [Project: Wireshark for Beginners TCP IP Protocol Fundamentals](https://www.coursera.org/projects/wireshark-for-beginners-tcp-ip-protocol-fundamentals)
-  - [Credentials: Wireshark for Beginners TCP IP Protocol Fundamentals](https://github.com/Dakalo-Ndonde15/Azure-Network-Protocols/blob/Certificates/Credentials/Wireshark%20for%20Beginners%20TCP%20IP%20Protocol%20Fundamentals.pdf)
+ <b>How to create a Jira SCRUM project</b>
+  - [Project: How to create a Jira SCRUM project](https://www.coursera.org/projects/how-to-create-a-jira-scrum-project)
+  - [Credentials: How to create a Jira SCRUM project](https://github.com/Dakalo-Ndonde15/Ticketing-System/blob/Certs/How%20to%20create%20a%20Jira%20SCRUM%20project.pdf)
    
- <b>Wireshark for Security: Detect Network Anomalies (Unlimited Access)</b>
-  - [Project: Wireshark for Security: Detect Network Anomalies](https://www.coursera.org/projects/wireshark-for-security)
-  - [Credentials: Wireshark for Security: Detect Network Anomalies](https://github.com/Dakalo-Ndonde15/Azure-Network-Protocols/blob/Certificates/Credentials/Wireshark%20for%20Security%20Detect%20Network%20Anomalies.pdf)
+ <b>How to use roadmaps in Jira</b>
+  - [Project: How to use roadmaps in Jira](https://www.coursera.org/projects/how-to-use-roadmaps-in-jira)
+  - [Credentials: How to use roadmaps in Jira](https://github.com/Dakalo-Ndonde15/Ticketing-System/blob/Certs/How%20to%20use%20roadmaps%20in%20Jira.pdf)
 
-<b>Wireshark for Packet Capture: Analyze web traffic (Unlimited Access)</b>
-  - [Project: Wireshark for Packet Capture: Analyze web traffic](https://www.coursera.org/projects/wireshark-for-packet-capture)
-  - [Credentials: Wireshark for Packet Capture: Analyze web traffic](https://github.com/Dakalo-Ndonde15/Azure-Network-Protocols/blob/Certificates/Credentials/Wireshark%20for%20Packet%20Capture%20Analyze%20web%20traffic.pdf)
+<b>Automate tasks and processes with Jira</b>
+  - [Project: Automate tasks and processes with Jira](https://www.coursera.org/projects/automate-tasks-and-processes-with-jira)
+  - [Credentials: Automate tasks and processes with Jira](https://github.com/Dakalo-Ndonde15/Ticketing-System/blob/Certs/Automate%20tasks%20and%20processes%20with%20Jira.pdf)
 
+<b>Create User Stories in Jira</b>
+  - [Project: Create User Stories in Jira](https://www.coursera.org/projects/create-user-stories-in-jira)
+  - [Credentials: Create User Stories in Jira](https://github.com/Dakalo-Ndonde15/Ticketing-System/blob/Certs/Create%20User%20Stories%20in%20Jira.pdf)
+  - 
 -![Repo Image](https://github.com/Dakalo-Ndonde15/Azure-Network-Protocols/blob/Certificates/Credentials/Wireshark_icon_new.png)
